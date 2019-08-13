@@ -14,7 +14,7 @@ git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch .m2/s
 # Usage
 ## Installation
 ```bash
-bash -c "$(curl -sSL https://raw.githubusercontent.com/zhoumingjun/dotfiles/master/.bin/dotfiles-install.sh)"
+bash -c "$(curl -sSL https://raw.githubusercontent.com/cfanz/dotfiles/master/.bin/dotfiles-install.sh)"
 $HOME/.bin/dotfiles-init-submodules.sh
 ```
 ## Update 3rd modules
